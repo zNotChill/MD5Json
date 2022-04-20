@@ -12,3 +12,7 @@ const mdjson = function(s) {
 		return r.join('},')
 	}
 }
+
+module.exports = {
+	mdjson
+}
