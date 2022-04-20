@@ -1,7 +1,7 @@
 
 # MDJson
 
-[![CodeFactor](https://www.codefactor.io/repository/github/zNotChill/MDJson/badge)](https://www.codefactor.io/repository/github/zNotChill/MDJson)
+[![CodeFactor](https://www.codefactor.io/repository/github/znotchill/mdjson/badge/main)](https://www.codefactor.io/repository/github/znotchill/mdjson/overview/main)
 
 MDJson is a tool that I have developed in my free time, being completely useless.
 
