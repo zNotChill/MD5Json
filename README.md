@@ -9,5 +9,5 @@ MDJson is a tool that I have developed in my free time, being rather spammy.
 To run this, you need to add both scripts to your html project.
 ```
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.16.0/js/md5.min.js"></script>
-<script type="text/javascript" src="https://raw.githubusercontent.com/zNotChill/MDJson/main/v1.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/zNotChill/MDJson/main/main.js"></script>
 ```
