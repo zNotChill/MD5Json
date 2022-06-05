@@ -8,3 +8,4 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/znotchill/mdjson?style=for-the-badge&label=WATCHING&color=2a124f)](https://github.com/znotchill/mdjson/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/znotchill/mdjson?style=for-the-badge&label=STARS&color=788525)](https://github.com/znotchill/mdjson/releases/latest)
 [![GitHub forks](https://img.shields.io/github/forks/znotchill/mdjson?style=for-the-badge&label=FORKS&color=5e5e5e)](https://github.com/znotchill/mdjson/releases/latest)
+[![GitHub Latest Release Downloads](https://img.shields.io/github/downloads/zNotChill/MDJson/total?color=625FAD&style=for-the-badge)](https://github.com/znotchill/mdjson/releases/latest)
