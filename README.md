@@ -3,6 +3,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/znotchill/mdjson.svg?style=for-the-badge&label=Version&color=ff6e6e)](https://github.com/znotchill/mdjson/releases/latest)
 [![CodeFactor](https://www.codefactor.io/repository/github/znotchill/mdjson/badge/main?style=for-the-badge&label=Version&color=ff6e6e)](https://www.codefactor.io/repository/github/znotchill/mdjson/overview/main)
+[![GitHub license](https://img.shields.io/github/license/znotchill/mdjson.svg?style=for-the-badge&label=License&color=31677d)](https://github.com/znotchill/mdjson/releases/latest)
 
 MDJson is a tool that I have developed in my free time, being rather spammy.
 
