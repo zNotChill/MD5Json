@@ -7,6 +7,6 @@
 
 To run this, you need to add both scripts to your html project.
 ```
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.16.0/js/md5.min.js"></script>
-<script type="text/javascript" src="https://raw.githubusercontent.com/zNotChill/MD5Json/main/index.js"></script>
+<script type="text/javascript" src="https://md5json.znci.dev/md5.min.js"></script>
+<script type="text/javascript" src="https://md5json.znci.dev/index.js"></script>
 ```
